@@ -18,7 +18,11 @@ Herramienta para eliminar ruido de archivos de audio usando transformada de Four
 - numpy
 - matplotlib
 - scipy
+- 
+## Autor
+Víctor Eduardo Aparicio Arenas
 
 ## Uso
 ```bash
 python denoiser.py
+
